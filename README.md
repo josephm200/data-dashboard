@@ -1,6 +1,6 @@
 # Web Development Project 5 - Data Dashboard - Weather App
 
-Submitted by: Joseph Mecherikunnel*
+Submitted by: Joseph Mecherikunnel
 
 This web app: This web app uses the OpenWeatherMap API to take user input for a location and display current temperature, cloud coverage, humidity, and wind speed data. This builds on the idea that I worked on last week.
 

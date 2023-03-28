@@ -45,7 +45,7 @@ GIF created with LICECap
 
 Describe any challenges encountered while building the app.
 
-Still wish to add to functoinality and implement a slider in the near future.
+Still wish to add to functionality and implement a slider in the near future.
 
 ## License
 
